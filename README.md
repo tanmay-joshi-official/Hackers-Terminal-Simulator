@@ -50,7 +50,7 @@ Hacker-Terminal-Simulator/
 
 ## Preview 🎥
 
-![Hacker Terminal Preview]()
+[Hacker Terminal Preview](https://github.com/user-attachments/assets/00a92fb5-5237-4ab1-a96a-5f4352fa158a)
 
 ---
 
