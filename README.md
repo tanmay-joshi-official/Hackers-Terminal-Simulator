@@ -37,16 +37,15 @@ No frameworks, just **vanilla JS**.
 
 ---
 
-## Project Structure 📂
+## 📁 Project Structure
 
-''
-Hacker-Terminal/
+```
+Hacker-Terminal-Simulator/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-''
-
+```
 ---
 
 ## Preview 🎥
