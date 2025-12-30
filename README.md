@@ -1,6 +1,6 @@
 # Hacker's Terminal Simulator 💻🟢
 
-Welcome to my **Hacker Terminal Simulator** mini project!  
+Welcome to my **Hacker's Terminal Simulator** mini project!  
 This is a **fun JavaScript project** that simulates a hacker terminal with sequential messages and blinking dots. Totally safe — no real hacking involved 😈
 
 ---
